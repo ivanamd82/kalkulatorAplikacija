@@ -26,11 +26,11 @@ public class Operacije {
 	}
 	
 	public static void korjenovanje (double a) {
-		
+		System.out.println(Math.sqrt(a));
 	}
 	
 	public static void kvadriranje (double a) {
-	
+	System.out.println(Math.pow(a, 2));
 	}
 
 
