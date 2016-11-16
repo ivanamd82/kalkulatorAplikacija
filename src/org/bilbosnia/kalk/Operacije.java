@@ -4,9 +4,13 @@ public class Operacije {
 	
 	public static void sabiranje (double a, double b) {
 		
+		System.out.println(a + b);
+		
 	}
 	
 	public static void oduzimanje (double a, double b) {
+		
+		System.out.println(a - b);
 		
 	}
 	
